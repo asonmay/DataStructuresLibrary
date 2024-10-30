@@ -15,3 +15,4 @@ Here is a list of all the data structures:
 * Stack
 * Queue
 * Graph
+* Binary Search Tree
