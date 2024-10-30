@@ -5,13 +5,13 @@ I made this during a data strutures class taken at Great Minds Robotics during m
 
 
 Here is a list of all the data structures:
-- Sorting Algorithms
+* Sorting Algorithms
   - Merge Sort
   - Selection Sort
   - Insertion Sort
   - Quick Sort
   - Bubble Sort
-- Linked List
-- Stack
-- Queue
-- Graph
+* Linked List
+* Stack
+* Queue
+* Graph
